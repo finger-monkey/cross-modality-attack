@@ -1,4 +1,4 @@
-# Cross-Modality Perturbation Synergy Attack for Person Re-identification
+# Cross-Modality Perturbation Synergy Attack for Person Re-identification(The code will be gradually released. Once all subsequent work is completed, it will be fully released.)
 
 Code for XXX2024 paper ``Cross-Modality Perturbation Synergy Attack for Person Re-identification (XXX 2024)".
 
