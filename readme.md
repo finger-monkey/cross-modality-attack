@@ -8,19 +8,18 @@ Code for XXX2024 paper ``Cross-Modality Perturbation Synergy Attack for Person R
 
 
 ## Requirements:
-*python==3.7.9
-*CUDA==11.2
-*torch==1.3.1
-*torchvision==0.2.1
-*opencv_python==4.2.0.34
-*metric_learn==0.5.0
-*six==1.12.0
-*h5py==2.9.0
-*scipy==1.3.1
-*numpy==1.17.2
-*Pillow==7.2.0
-*scikit_learn==0.23.2
-
+* python==3.7.9
+* CUDA==11.2
+* torch==1.3.1
+* torchvision==0.2.1
+* opencv_python==4.2.0.34
+* metric_learn==0.5.0
+* six==1.12.0
+* h5py==2.9.0
+* scipy==1.3.1
+* numpy==1.17.2
+* Pillow==7.2.0
+* scikit_learn==0.23.2
 * SYSU-MM01 and RegDB dataset.
 * faiss-gpu==1.6.0
 
